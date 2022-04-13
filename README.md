@@ -6,7 +6,7 @@ Win10用户可以通过'Win'+'.'调出表情输入面板输入emoji，而且支�
 
 ## 使用方法
 
-1. 将txt文件使用[深蓝词库软件](https://github.com/studyzy/imewlconverter)转换为微软拼音输入法的词库文件（Win10微软拼音词库.dat）
+1. 将txt文件使用[深蓝词库软件](https://github.com/studyzy/imewlconverter)转换为微软拼音输入法的词库文件（Win10微软拼音词库.dat）//也可以使用本项目中提供的已经转换好的文件
 2. 将生成的dat文件导入到微软拼音输入法的用户自定义短语中
 
 ## 注意事项
